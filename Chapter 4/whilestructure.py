@@ -5,3 +5,5 @@ while lap < 5:
     print("This is lap " + str(lap))
     if lap == 4:
         lap = lap + 1
+        
+# tää ei toimi /Katri
